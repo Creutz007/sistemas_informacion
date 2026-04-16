@@ -1,1 +1,1 @@
-# sistemas_informacion
+# Hola Slack, esta es una prueba real desde mi terminal.
